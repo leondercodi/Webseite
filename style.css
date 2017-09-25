@@ -1,5 +1,7 @@
 body{
   text-align: center;
-  background-color: fuchsia;
+  background-color: whitesmoke;
 font-family: sans-serif;
 }
+.unterpunkt {display: block; font-weight: bold;}
+.learnbox {text-align: left; background-color: white; padding: 16px;max-width: 600px;margin-left: auto;margin-right: auto;}
