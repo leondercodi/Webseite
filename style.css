@@ -2,9 +2,11 @@ body{
   text-align: center;
   background-color: whitesmoke;
 font-family: sans-serif;
+background-image: url(./malte-baumann-82231.jpg);
 }
 h1{
   text-transform: uppercase;
+  color: white;
 }
 .unterpunkt {display: block; font-weight: bold;}
 .learnbox {text-align: left; background-color: white; padding: 16px;max-width: 600px;margin-left: auto;margin-right: auto;}
