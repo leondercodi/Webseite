@@ -2,7 +2,9 @@ body{
   text-align: center;
 
 font-family: sans-serif;
-background-image: url(./malte-baumann-82231.jpg);
+background-image: url(./martin-sattler-160751.jpg);
+background-size: contain;
+max-width: 90%;
 }
 h1{
   text-transform: uppercase;
@@ -15,17 +17,19 @@ button{
    background-image: url(./leon__1_of_1__480.jpg);
    background-size: 100% 100%;
    box-shadow: 0px 17px 10px -7px
-   rgba(10, 0, 0, 0.5);
-   border: solid 5px #b8860b;
+   border-color: grey;
+   border: solid 5px;
+   border-radius: 10px;
    font-size: 20px;
    font-weight: bold;
  }
 button:hover{
-  color: purple;
+  color: grey;
   box-shadow: 0px 10px 10px;
 }
 
 .unterpunkt {
+
   display: block;
    font-weight: bold;
  }
@@ -37,4 +41,12 @@ button:hover{
    margin-left: auto;
    margin-right: auto;
    background: linear-gradient(black, white);
+ }
+
+ p {
+   float: left;
+   margin: 25px;
+   border: 5px;
+
+
  }
